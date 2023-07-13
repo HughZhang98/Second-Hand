@@ -1,4 +1,4 @@
-# second-hand
+# VUE.js - Second-hand Mobile App 
 
 ## Project setup
 ```
